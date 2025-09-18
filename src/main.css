@@ -1,0 +1,24 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-mint-green: #c7ede4;
+  --color-mint-green-lighter: #d5fff3;
+  --color-rose-quartz: #af9ab2;
+  --color-dark-magenta: #820b8a;
+  --color-violet: #672a4e;
+}
+
+@layer base {
+  @font-face {
+    font-family: 'polea';
+    src: url('/Polea Extra Bold DEMO.otf') format('opentype');
+  }
+  @font-face {
+    font-family: 'vasley';
+    src: url('/Veslay-Regular.otf');
+  }
+}
+
+button {
+  @apply bg-violet text-rose-quartz font-bold rounded-lg shadow-[1px_1px_0px_0px_rgba(0,_0,_0,_0.8)] hover:bg-dark-magenta transition duration-75 active:scale-98 drop-shadow-2xl;
+}
