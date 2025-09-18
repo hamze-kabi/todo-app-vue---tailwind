@@ -1,35 +1,36 @@
-# todo app
+# Todo App
 
-This template should help get you started developing with Vue 3 in Vite.
+A simple todo app, created using vue and tailwind
 
-## Recommended IDE Setup
+## Table of contents
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
 
-## Customize configuration
+## Overview
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+### Screenshot
 
-## Project Setup
+![Screenshot](screenshot.png)
 
-```sh
-npm install
-```
+### Links
 
-### Compile and Hot-Reload for Development
+- Solution URL: [https://github.com/hamze-kabi/todo-app-vue---tailwind](https://github.com/hamze-kabi/todo-app-vue---tailwind)
+- Live Site URL: [https://hamze-kabi-todoapp.netlify.app/](https://hamze-kabi-todoapp.netlify.app/)
 
-```sh
-npm run dev
-```
+## My process
 
-### Compile and Minify for Production
+### Built with
 
-```sh
-npm run build
-```
+- Vue
+- Tailwind
+- Pinia
+- Mobile-first workflow
 
-### Lint with [ESLint](https://eslint.org/)
+## Author
 
-```sh
-npm run lint
-```
+- Github - [https://github.com/hamze-kabi](https://github.com/hamze-kabi)
