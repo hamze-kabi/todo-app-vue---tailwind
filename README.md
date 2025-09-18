@@ -15,7 +15,7 @@ A simple todo app, created using vue and tailwind
 
 ### Screenshot
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.jpg)
 
 ### Links
 
